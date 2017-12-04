@@ -3,6 +3,11 @@ m3u8 files generating by using streamlink based on http://ecanlitvizle.net and h
 
 Dependet on streamlink, please install this at first: https://github.com/streamlink/streamlink
 
+WINDOWS
+-------
+
+You can find the executable file **live.exe** in **dist/live/live.exe** the **live.m3u8** file will be created in the same directory
+
 INSTALL
 -------
 
@@ -117,3 +122,5 @@ LIG TV 9
 37 TRT TURK
 
 38 TV NET
+
+...
