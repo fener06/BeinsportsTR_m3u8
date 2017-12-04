@@ -1,0 +1,5 @@
+('C:\\Users\\hakandemirel\\Downloads\\live\\build\\live\\idna-2.6-py3.6.egg',
+ None,
+ {'*.pyo', 'EGG-INFO', '*.py', '*.so', '*.pyc', '*.pyd'},
+ 'DATA',
+ [])

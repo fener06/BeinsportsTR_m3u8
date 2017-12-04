@@ -1,0 +1,13 @@
+('c:\\users\\hakandemirel\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\certifi-2017.11.5-py3.6.egg',
+ None,
+ {'*.pyo', 'EGG-INFO', '*.py', '*.so', '*.pyc', '*.pyd'},
+ 'DATA',
+ [('certifi\\cacert.pem',
+   'c:\\users\\hakandemirel\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\certifi-2017.11.5-py3.6.egg\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\old_root.pem',
+   'c:\\users\\hakandemirel\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\certifi-2017.11.5-py3.6.egg\\certifi\\old_root.pem',
+   'DATA'),
+  ('certifi\\weak.pem',
+   'c:\\users\\hakandemirel\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\certifi-2017.11.5-py3.6.egg\\certifi\\weak.pem',
+   'DATA')])

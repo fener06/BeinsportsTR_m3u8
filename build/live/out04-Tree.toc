@@ -1,0 +1,5 @@
+('C:\\Users\\hakandemirel\\Downloads\\live\\build\\live\\chardet-3.0.4-py3.6.egg',
+ None,
+ {'*.pyo', 'EGG-INFO', '*.py', '*.so', '*.pyc', '*.pyd'},
+ 'DATA',
+ [])

@@ -1,0 +1,5 @@
+('c:\\users\\hakandemirel\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\urllib3-1.22-py3.6.egg',
+ None,
+ {'*.pyo', 'EGG-INFO', '*.py', '*.so', '*.pyc', '*.pyd'},
+ 'DATA',
+ [])
